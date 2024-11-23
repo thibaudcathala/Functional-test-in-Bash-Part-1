@@ -1,4 +1,4 @@
-# Functionnal-Test-Bash
+# Functional test in Bash - Part 1
 
 # Here is a cheat sheet that can help you to make your tests : https://devhints.io/bash
 

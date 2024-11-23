@@ -44,3 +44,6 @@ else it will print
 
 ## Bonus
 Try to make functional tests for your current project!
+
+# Result example
+![image](https://github.com/user-attachments/assets/9862a74d-9f03-49f0-9bc0-ee5a97b16346)
